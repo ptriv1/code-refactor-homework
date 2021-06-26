@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+// Changed div to nav for semantic reasons
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +33,12 @@ body {
     font-size: 20px;
 }
 
+// Changed div to nav 
 .header nav ul {
     list-style-type: none;
 }
 
+// Changed div to nav
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -50,7 +53,8 @@ p {
     font-size: 16px;
 }
 
-.hero {
+// Changed class name to content-main instead of hero
+.content-main {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -86,6 +90,7 @@ p {
     background-color: #2589bd;
 }
 
+// Consolidated classes for readability of CSS
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -124,6 +129,7 @@ p {
     max-width: 150px;
 }
 
+// Consolidated classes for readability of CSS
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
