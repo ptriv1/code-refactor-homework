@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* Color for background */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header formatting */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Navigation menu formatting*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,11 +44,13 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/*Link formatting*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*Font size on paragraphs*/
 p {
     font-size: 16px;
 }
@@ -59,11 +64,13 @@ p {
     background-position: center;
 }
 
+/*Section moved to the left*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Section moved to right*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -75,6 +82,7 @@ p {
     margin-left: 20px;
 }
 
+/*Formatting for benefits of using Horiseon*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -129,6 +137,7 @@ p {
     color: #ffffff;
 }
 
+/*Formatting for image class*/
 .image {
     max-height: 200px;
 }
@@ -138,6 +147,7 @@ p {
     font-size: 36px;
 }
 
+/*Footer formatting*/
 footer {
     padding: 30px;
     clear: both;
