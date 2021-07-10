@@ -6,6 +6,6 @@ Some changes I made were adding header and footer tags, adding alt for accessibi
 
 Screen shot: https://ibb.co/g77m3Pr
 
-GitHub: https://github.com/ptriv1/code-refactor-homework/blob/main/Develop/assets/css/style.css
+GitHub: https://github.com/ptriv1/code-refactor-homework
 
 GitHub Pages: https://ptriv1.github.io/code-refactor-homework/
